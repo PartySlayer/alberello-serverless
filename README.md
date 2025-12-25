@@ -1,2 +1,6 @@
-# alberello-serverless
-Serverless Christmas 2025: un albero di natale collettivo. Una webapp serverless, API backend sviluppata in python puro (no frameworks) e boto3 per interagire con DynamoDB.
+
+
+
+Diagramma Architetturale:
+
+![Alberello serverless](https://github.com/user-attachments/assets/5ce65026-bab4-45cf-9312-b635d86b7c37)
